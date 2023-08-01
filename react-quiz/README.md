@@ -1,3 +1,14 @@
+## About the App
+
+This app is built by using the latest react version 18 as per August 2023.
+
+To run the app:
+
+- npm start server (assuming you have installed json-server )
+- npm start
+
+Take a look at the Data/questions.json to know how to manipulate the response you get.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
