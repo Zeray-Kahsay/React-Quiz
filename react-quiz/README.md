@@ -1,7 +1,7 @@
 ## About the App
 
 This app is built using the latest react version of 18 as per August 2023.
-There are two source folder, src and src-with-context. In the first folder, useReducer is used as state management,
+There are two source folder, src and src-with-context. In the first folders, useReducer is used as state management,
 and in the second, both useReducer and contextAPI combined are used. 
 
 To run the app:
