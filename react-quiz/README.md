@@ -1,13 +1,15 @@
 ## About the App
 
-This app is built by using the latest react version 18 as per August 2023.
+This app is built using the latest react version of 18 as per August 2023.
+There are two source folder, src and src-with-context. In the first folder, useReducer is used as state management,
+and in the second, both useReducer and contextAPI combined are used. 
 
 To run the app:
 
 - npm start server (assuming you have installed json-server )
 - npm start
 
-Take a look at the Data/questions.json to know how to manipulate the response you get.
+Take a look at the Data/questions.json to know how to manipulate the response data.
 
 # Getting Started with Create React App
 
